@@ -1,8 +1,22 @@
 body{
-    text-align: center;
     background-image: url(https://cdn.wallpapersafari.com/38/0/tNfnSd.png);
 }
 
-intro{
+#intro{
     color: blue;
+}
+
+.crawler{
+    color: #ffe81f;
+    text-align: justify;
+    font-family: Star jedi;
+    margin:10%
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
 }
