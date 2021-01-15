@@ -3,7 +3,7 @@ body{
 }
 
 #intro{
-    color: blue;
+    color: #3ebddb;
 }
 
 .crawler{
@@ -19,4 +19,9 @@ h1{
 
 h2{
     text-align: center;
+}
+
+p{
+    font-size: 30px;
+    margin-bottom: 100px;
 }
