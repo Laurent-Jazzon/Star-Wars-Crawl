@@ -15,7 +15,7 @@ body{
 }
 
 @font-face{
-    src: url("./font/Starjedi.ttf");
+    src: url("./font/Starjedi.ttf") format("ttf");
 }
 
 @keyframes fadeIn{
