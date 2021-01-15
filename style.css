@@ -4,12 +4,23 @@ body{
 
 #intro{
     color: #3ebddb;
+    text-align: center;
+    vertical-align: center;
+    animation: fadeIn ease 14s;
+    font-family: Star jedi,Arial, Helvetica, sans-serif;
+}
+
+@keyframes fadeIn{
+    0% {opacity: 0;}
+    50%{ opacity: 100;}
+    100%{opacity: 0;}
+    
 }
 
 .crawler{
     color: #ffe81f;
     text-align: justify;
-    font-family: Star jedi;
+    font-family: Star jedi, Arial, Helvetica, sans-serif;
     margin:10%
 }
 
@@ -24,7 +35,9 @@ h2{
 p{
     font-size: 30px;
     margin-bottom: 100px;
+}
 
 img{
-    margin-left: 240px;
+    width: 250px;
+    position: 
 }
