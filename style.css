@@ -5,7 +5,6 @@ body{
 #intro{
     color: #3ebddb;
     text-align: center;
-    vertical-align: center;
     animation: fadeIn ease 14s;
     font-family: Star jedi,Arial, Helvetica, sans-serif;
 }
@@ -21,7 +20,9 @@ body{
     color: #ffe81f;
     text-align: justify;
     font-family: Star jedi, Arial, Helvetica, sans-serif;
-    margin:10%
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 h1{
@@ -39,5 +40,4 @@ p{
 
 img{
     width: 250px;
-    position: 
 }
