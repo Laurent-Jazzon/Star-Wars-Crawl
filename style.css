@@ -15,7 +15,7 @@ body{
 }
 
 @font-face{
-    font-family: Star jedi;
+    font-family: "Star jedi";
     src: url("./font/Starjedi.ttf") format("truetype");
 }
 
@@ -31,7 +31,7 @@ body{
 .crawler{
     color: #ffe81f;
     text-align: justify;
-    font-family: Star jedi, Arial, Helvetica, sans-serif;
+    font-family: "Star jedi", sans-serif;
     margin: 10%;
     max-width: 1900px;
     transform: perspective(350px) rotateX(25deg);
