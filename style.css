@@ -28,7 +28,7 @@ body{
     grid-column: 1/1;
     grid-row: 1/1;
     font-size: 20pt;
-    margin-top: 40%;
+    margin-top: 20%;
 
 }
 
@@ -56,11 +56,17 @@ body{
     position: absolute;
     grid-column: 1/1;
     grid-row: 1/1;
-    margin-top: -500px;
+    margin-top: -400px;
 }
 
 @keyframes scrollcrawl{
     0%{
+        opacity: 0;
+    }
+    14%{
+        opacity: 0;
+    }
+    15%{
         transform: perspective(350px) rotateX(25deg) translateY(680px);
         opacity: 1;
     }
@@ -118,4 +124,7 @@ body{
         opacity: 0;
         transform: translateZ(-1000em);
       }
+}
+audio{
+    counter-set: 20s;
 }
