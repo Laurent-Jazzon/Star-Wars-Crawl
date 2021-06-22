@@ -2,7 +2,7 @@
 
 ## The web page
 
-[Check it here !](https://laurent-jazzon.github.io/Star-Wars-Crawl/)
+[Check it here ! And don't forget to click if you want the audio](https://laurent-jazzon.github.io/Star-Wars-Crawl/)
 
 ## Our Team 
 
